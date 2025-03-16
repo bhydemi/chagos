@@ -8,3 +8,4 @@ extracted_pdfs
 extracted_images
 failed_pdfs.txt
 .pytest_cache/
+*.json
