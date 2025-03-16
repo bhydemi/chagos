@@ -1,3 +1,4 @@
+*.json
 __pycache__/
 *.pyc
 extractor/__pycache__
@@ -8,4 +9,4 @@ extracted_pdfs
 extracted_images
 failed_pdfs.txt
 .pytest_cache/
-*.json
+all_extracted_data.json
