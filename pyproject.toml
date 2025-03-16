@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "OCR and LLM Parser"
+version = "0.1.0"
+description = ""
+authors = ["Yaqoob Abdulhakeem <yaqoobao@gmail.com>"]
+readme = "README.md"
+packages = [{include = "extractor"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+python-dotenv = "^1.0.1"
+langchain = "^0.3.20"
+langchain-openai = "^0.3.8"
+langchain-community = "^0.3.19"
+pymupdf4llm = "^0.0.17"
+pypdf = "^5.4.0"
+pytest = "^8.3.5"
+black = "^25.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

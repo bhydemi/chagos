@@ -1,0 +1,12 @@
+*.json
+__pycache__/
+*.pyc
+extractor/__pycache__
+extractor/*.pyc
+.env
+pdf_files.zip
+extracted_pdfs
+extracted_images
+failed_pdfs.txt
+.pytest_cache/
+all_extracted_data.json
