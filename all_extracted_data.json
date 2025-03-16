@@ -1,0 +1,721 @@
+[
+    {
+        "file_name": "TechnicalDataSheet_Sto-Aufsteckprofil_Novo_0101_DE_02_00.pdf",
+        "brand": "Sto",
+        "product_name": "Sto-Aufsteckprofil Novo",
+        "product_code": "PROD0148",
+        "revision_number": "2",
+        "document_date": "2018-07-25",
+        "properties": [
+            "Zusatzprofil für mittel- und dickschichtige Armierungen",
+            "aus Edelstahl"
+        ],
+        "application_area": "Building industry",
+        "material_composition": "Edelstahl",
+        "physical_properties": {
+            "length": "250 cm",
+            "drip_edge": [
+                "6 mm",
+                "10 mm",
+                "15 mm"
+            ]
+        },
+        "available_sizes": [
+            "250 cm"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Trocken und eben lagern.",
+        "shelf_life": "No Expiration Specified",
+        "environmental_impact": "Environmental Impact Not Provided",
+        "disposal_information": "Follow Local Regulations",
+        "safety_warnings": "No Known Safety Risks",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "General Application Methods",
+        "substrate_requirements": "Saubere, trockene, versatzfreie und planebene Dämmplattenflächen, fluchtrechte Kanten.",
+        "standards_met": "No Standards Specified",
+        "certifications": [],
+        "manufacturer_contact": "Sto SE & Co. KGaA, Ehrenbachstr. 1, D - 79780 Stühlingen, Telefon: 07744 57-0, Telefax: 07744 57 -2178, infoservice@sto.com, www.sto.de",
+        "documentation_url": "No Document URL Available",
+        "product_image": [
+            "TechnicalDataSheet_Sto-Aufsteckprofil_Novo_0101_DE_02_00/TechnicalDataSheet_Sto-Aufsteckprofil_Novo_0101_DE_02_00.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TechnicalDataSheet_Sto-Uebergangsprofil_Blech_0101_DE_03_00.pdf",
+        "brand": "Sto",
+        "product_name": "Sto-Übergangsprofil Blech",
+        "product_code": "PROD1056",
+        "revision_number": "3",
+        "document_date": "2017-04-21",
+        "properties": [
+            "aus Kunststoff, mit integriertem Glasfasergewebe",
+            "mit Kunststoffdübeln zur optionalen Befestigung im Dämmstoff"
+        ],
+        "application_area": "außen zur Ausbildung eines Übergangs an Blechverwahrungen bei Fassadendämmsystemen",
+        "material_composition": "Kunststoff",
+        "physical_properties": {
+            "length": "250 cm"
+        },
+        "available_sizes": [
+            "250 cm"
+        ],
+        "color_options": "weiß",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Trocken und eben lagern.",
+        "shelf_life": "No Expiration Specified",
+        "environmental_impact": "Environmental Impact Not Provided",
+        "disposal_information": "Follow Local Regulations",
+        "safety_warnings": "No Known Safety Risks",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Das Profil so weit auf das bauseits vorhandene Blech stecken, dass über der Oberkante des Blechs einige Millimeter Spielraum für die Bewegungsaufnahme bleiben.",
+        "substrate_requirements": "Die Dämmplatte muss sauber, trocken, versatzfrei, und planeben sein und fluchtgerechte Kanten haben.",
+        "standards_met": "No Standards Specified",
+        "certifications": [],
+        "manufacturer_contact": "Sto SE & Co. KGaA, Ehrenbachstr. 1, D - 79780 Stühlingen, Telefon: 07744 57-0, Telefax: 07744 57 -2178, infoservice@sto.com, www.sto.de",
+        "documentation_url": "No Document URL Available",
+        "product_image": [
+            "TechnicalDataSheet_Sto-Uebergangsprofil_Blech_0101_DE_03_00/TechnicalDataSheet_Sto-Uebergangsprofil_Blech_0101_DE_03_00.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TechnicalDataSheet_Sto-Sockelleiste_Universal_0101_DE_02_00.pdf",
+        "brand": "Sto",
+        "product_name": "Sto-Sockelleiste Universal",
+        "product_code": "PROD0843",
+        "revision_number": "2",
+        "document_date": "2024-01-05",
+        "properties": [
+            "aus stückeloxiertem Aluminium",
+            "stranggepresst für höchste Stabilität",
+            "mit integrierter Tropfkante"
+        ],
+        "application_area": "Bauwesen",
+        "material_composition": "Aluminium",
+        "physical_properties": {
+            "Format": {
+                "Ausladung": [
+                    "22 mm",
+                    "32 mm",
+                    "42 mm",
+                    "52 mm",
+                    "62 mm",
+                    "72 mm",
+                    "82 mm",
+                    "92 mm",
+                    "102 mm",
+                    "122 mm",
+                    "142 mm",
+                    "152 mm",
+                    "162 mm",
+                    "182 mm",
+                    "202 mm"
+                ],
+                "Länge": "200 cm"
+            }
+        },
+        "available_sizes": [
+            "22 mm",
+            "32 mm",
+            "42 mm",
+            "52 mm",
+            "62 mm",
+            "72 mm",
+            "82 mm",
+            "92 mm",
+            "102 mm",
+            "122 mm",
+            "142 mm",
+            "152 mm",
+            "162 mm",
+            "182 mm",
+            "202 mm"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Trocken und eben lagern.",
+        "shelf_life": "No Expiration Specified",
+        "environmental_impact": "Environmental Impact Not Provided",
+        "disposal_information": "Follow Local Regulations",
+        "safety_warnings": "No Known Safety Risks",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Das Profil in der zuvor festgelegten Höhe fluchtgerecht ausrichten und befestigen.",
+        "substrate_requirements": "Der Untergrund muss eben und tragfähig sein. Auf Festigkeit und Hohlstellen ist zu prüfen.",
+        "standards_met": "No Standards Specified",
+        "certifications": [],
+        "manufacturer_contact": "Sto Ges.m.b.H., Richtstraße 47, A - 9500 Villach, Telefon: 04242 33-1330, Telefax: 04242 34-347, www.sto.at",
+        "documentation_url": "No Document URL Available",
+        "product_image": [
+            "TechnicalDataSheet_Sto-Sockelleiste_Universal_0101_DE_02_00/TechnicalDataSheet_Sto-Sockelleiste_Universal_0101_DE_02_00.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TechnicalDataSheet_Sto-Uebergangsprofil_Keramik_P_0101_DE_04_00.pdf",
+        "brand": "Sto",
+        "product_name": "Sto-Übergangsprofil Keramik P",
+        "product_code": "PROD3193",
+        "revision_number": "4",
+        "document_date": "2024-07-23",
+        "properties": [
+            "verschweißtes, gelochtes Kunststoffprofil mit Abzugskante, Schutzlasche und geneigtem Schenkel mit Tropfkante",
+            "integriertes Glasfasergewebe",
+            "als Abschluss unter- oder oberhalb von keramischen Belägen mit einem Übergang zu Putzflächen",
+            "wasserführender Übergang"
+        ],
+        "application_area": "Bau",
+        "material_composition": "Kunststoff",
+        "physical_properties": {
+            "Länge": "2,5 m",
+            "Ausladung": "30 mm"
+        },
+        "available_sizes": [
+            "2,5 m"
+        ],
+        "color_options": "Weiß",
+        "coating_finish": "Nur mit einer zulässigen Farbe beschichten; HBW der Farbe: > 25",
+        "storage_conditions": "Trocken und eben lagern.",
+        "shelf_life": "No Expiration Specified",
+        "environmental_impact": "Environmental Impact Not Provided",
+        "disposal_information": "Follow Local Regulations",
+        "safety_warnings": "Die Erstellung eines Sicherheitsdatenblattes gemäß REACH Verordnung (EG) Nr. 1907/2006, Anhang II, ist nicht erforderlich.",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Profil einspachteln, Oberputz auftragen, elastische Dichtstofffuge ausführen.",
+        "substrate_requirements": "Die Flächenarmierung muss ausreichend gehärtet sein. Die Armierungsschicht muss sauber, trocken und planeben sein und fluchtrechte Kanten haben.",
+        "standards_met": "No Standards Specified",
+        "certifications": [],
+        "manufacturer_contact": "Sto SE & Co. KGaA, Ehrenbachstr. 1, D - 79780 Stühlingen, Telefon: 07744 57-0, Telefax: 07744 57-2178, infoservice@sto.com, www.sto.de",
+        "documentation_url": "No Document URL Available",
+        "product_image": [
+            "TechnicalDataSheet_Sto-Uebergangsprofil_Keramik_P_0101_DE_04_00/TechnicalDataSheet_Sto-Uebergangsprofil_Keramik_P_0101_DE_04_00.pdf-3-0.png",
+            "TechnicalDataSheet_Sto-Uebergangsprofil_Keramik_P_0101_DE_04_00/TechnicalDataSheet_Sto-Uebergangsprofil_Keramik_P_0101_DE_04_00.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TechnicalDataSheet_Sto-Kantenprofil_Y_0101_DE_03_01.pdf",
+        "brand": "Sto",
+        "product_name": "Sto-Kantenprofil Y",
+        "product_code": "PROD1198",
+        "revision_number": "3",
+        "document_date": "2019-08-06",
+        "properties": [
+            "Kantenprofil für mittel- und dickschichtige Armierungen",
+            "aus Kunststoff"
+        ],
+        "application_area": "außen",
+        "material_composition": "Kunststoff",
+        "physical_properties": {
+            "Abzugskante/Schichtdicke": [
+                "5 mm",
+                "10 mm"
+            ],
+            "Gewebeschenkel": "10 x 15 cm",
+            "Länge": "250 cm"
+        },
+        "available_sizes": [
+            "5 mm",
+            "10 mm"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Trocken und eben lagern.",
+        "shelf_life": "No Expiration Specified",
+        "environmental_impact": "Environmental Impact Not Provided",
+        "disposal_information": "Follow Local Regulations",
+        "safety_warnings": "No Known Safety Risks",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Im Eckbereich Armierungsmasse in ausreichender Schichtdicke auftragen.",
+        "substrate_requirements": "Hinreichend ausgehärtete Dämmplattenverklebung, saubere, trockene, versatzfreie und planebene Dämmplattenflächen.",
+        "standards_met": "No Standards Specified",
+        "certifications": [],
+        "manufacturer_contact": "Sto SE & Co. KGaA, Ehrenbachstr. 1, D - 79780 Stühlingen, Telefon: 07744 57-0, Telefax: 07744 57-2178, infoservice@sto.com, www.sto.de",
+        "documentation_url": "No Document URL Available",
+        "product_image": [
+            "TechnicalDataSheet_Sto-Kantenprofil_Y_0101_DE_03_01/TechnicalDataSheet_Sto-Kantenprofil_Y_0101_DE_03_01.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TM_EPFinish.pdf",
+        "brand": "Conti",
+        "product_name": "EP FINISH",
+        "product_code": "F+L RE20",
+        "revision_number": "Not Available",
+        "document_date": "2021-10-27",
+        "properties": [
+            "Wasserverdünnbare, seidenglänzende Zweikomponenten-Beschichtung auf Epoxidharzbasis",
+            "Hohe Abriebfestigkeit",
+            "Öl- und benzinbeständig",
+            "Erkennbarem Topfzeitende",
+            "Für hoch beanspruchte Flächen im Innenbereich"
+        ],
+        "application_area": "Anstrichstoff zur Beschichtung hoch beanspruchter Flächen im Innenbereich und Außenbereich (eingeschränkt)",
+        "material_composition": "Leinsamenöl, Polymer aus Bisphenol A, Bisphenol A diglycidylether, Diethylentriamin, Formaldehyd, Glycidyl Ether und Pentaethylenhexamin",
+        "physical_properties": {
+            "gloss_level": "seidenglänzend",
+            "specific_weight": "ca. 1,500 g/cm3"
+        },
+        "available_sizes": [
+            "5,0 kg Kombieimer (4 kg Stammlack & 1 kg Härter)"
+        ],
+        "color_options": [
+            "RAL 7030 steingrau",
+            "RAL 7032 kieselgrau"
+        ],
+        "coating_finish": "seidenglänzend",
+        "storage_conditions": "Kühl und trocken, im ungeöffneten Originalgebinde lagerfähig",
+        "shelf_life": "ca. 1 Jahr",
+        "environmental_impact": "VOC max. 140 g/l",
+        "disposal_information": "Eingetrocknete Reste als Baustellenabfall oder im Hausmüll entsorgen; Flüssige Reste gemäß Abfallschlüssel entsorgen",
+        "safety_warnings": "Verursacht Hautreizungen und schwere Augenschäden; Schutzhandschuhe und Augen-/Gesichtsschutz tragen",
+        "mixing_instructions": "4 Gewichtanteile Stammlack, 1 Gewichtanteil Härter; Mischen für mindestens 3 Minuten",
+        "application_method": "Streichen oder rollen; Arbeitsgeräte sofort nach Gebrauch mit Wasser reinigen",
+        "substrate_requirements": "Rissfrei, fest, trocken und frei von Verunreinigungen",
+        "standards_met": "VOB, Teil C, DIN 18363, Technisches Merkblatt und BFS-Merkblätter beachten",
+        "certifications": [],
+        "manufacturer_contact": "Tel.: +49 208 9948 0, Mail: info@conticoatings.com",
+        "documentation_url": "http://files.conticoatings.com/TM_EPFinish.pdf",
+        "product_image": [
+            "TM_EPFinish/TM_EPFinish.pdf-0-1.png",
+            "TM_EPFinish/TM_EPFinish.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TM_MethacrylatBodenfarbe.pdf",
+        "brand": "Conti",
+        "product_name": "Methacrylat-Bodenfarbe",
+        "product_code": "F+L BSW20",
+        "revision_number": "Not Available",
+        "document_date": "2021-10-27",
+        "properties": [
+            "wassertunwirksamer Dispersionslack nach DIN 55 945",
+            "leicht verarbeitbar",
+            "umweltverträglich",
+            "schadstoffarm",
+            "alterungs- und farbtonstabil",
+            "hohes Deckvermögen",
+            "gute Haftungseigenschaften",
+            "kurzfristig beständig gegen Wasser und Tausalzlösungen",
+            "beständig gegen viele 10%-ige wässrige Säuren und Laugen, Schmierfette, Öle, Petroleum, Testbenzin, Heiz- und Dieselöl"
+        ],
+        "application_area": "Einsetzbar auf grundierten mineralischen Untergründen wie Putz-, Beton- und Estrichflächen und tragfähigen Altbeschichtungen.",
+        "material_composition": "Cololymere Acrylat-Dispersion nach DIN 55947",
+        "physical_properties": {
+            "gloss_level": "seidenmatt",
+            "specific_weight": "ca. 1,250 – 1,350 g/cm3",
+            "EU_VOC_limit": "140 g/l VOC (2010)",
+            "max_VOC_content": "max. 140 g/l"
+        },
+        "available_sizes": [
+            "5l",
+            "12,5l"
+        ],
+        "color_options": [
+            "hellgrau",
+            "blaugrau",
+            "grau",
+            "beige",
+            "grün",
+            "weiß"
+        ],
+        "coating_finish": "seidenmatt",
+        "storage_conditions": "kühl und trocken ca. 1 Jahr",
+        "shelf_life": "ca. 1 Jahr",
+        "environmental_impact": "Der VOC-Anteil beträgt max. 140 g/l.",
+        "disposal_information": "Eingetrocknete Reste können als Baustellenabfall nach Abfallschlüssel Nr. 17 09 03 oder im Hausmüll entsorgt werden. Flüssige Reste unter Berücksichtigung der behördlichen Abfallbeseitigungsvorschriften (Abfallschlüssel-Nr. 08 01 11) entsorgen.",
+        "safety_warnings": "Für Kinder unzugänglich aufbewahren; sofort mit Wasser reinigen bei Kontakt mit Augen und Haut; Farbnebel nicht einatmen.",
+        "mixing_instructions": "Das Material ist verarbeitungsfertig eingestellt. Nicht mit andersartigen Materialien mischen.",
+        "application_method": "Streichen, rollen oder spritzen. Arbeitsgeräte sofort nach Gebrauch mit Wasser reinigen.",
+        "substrate_requirements": "Die Untergründe müssen rissfrei, fest, trocken, frei von Verschmutzungen, Salzen, Ausblühungen, Pilzbefall u.s.w. sein.",
+        "standards_met": "DIN 55 945, DIN 55947, VOB, Teil C, DIN 18363",
+        "certifications": [],
+        "manufacturer_contact": "Tel.: +49 208 9948 0, Mail: info@conticoatings.com",
+        "documentation_url": "https://files.conticoatings.com/TM_MethacrylatBodenfarbe.pdf",
+        "product_image": [
+            "TM_MethacrylatBodenfarbe/TM_MethacrylatBodenfarbe.pdf-0-0.png",
+            "TM_MethacrylatBodenfarbe/TM_MethacrylatBodenfarbe.pdf-0-1.png"
+        ]
+    },
+    {
+        "file_name": "TM_Murolux.pdf",
+        "brand": "Conti",
+        "product_name": "Conti® Murolux®",
+        "product_code": "F+L BSW50",
+        "revision_number": "Not Available",
+        "document_date": "2023-08-09",
+        "properties": [
+            "stark wasserabweisend",
+            "langzeitschutz gegen Algen- und Pilzbefall",
+            "alterungsbeständig",
+            "hoch diffusionsfähig",
+            "alkali- und wetterbeständig",
+            "hoher Weißgrad",
+            "ausgezeichnetes Deckvermögen",
+            "geringe Verschmutzungsneigung"
+        ],
+        "application_area": "Außenanwendung auf mineralischen und organisch gebundenen Untergründen, Kunstharzputzen und tragfähigen Altbeschichtungen auf Dispersionsbasis",
+        "material_composition": "Reinacrylat-Silikonharz, Titandioxid, Füllstoffe, Additive, Konservierungsmittel, Wasser",
+        "physical_properties": {
+            "Diffusionsdichte": "Klasse V1",
+            "Durchlässigkeitsrate für Wasser": "Klasse W3",
+            "Glanzgrad": "stumpfmatt",
+            "Spez. Gewicht": "ca. 1,360 g/cm³"
+        },
+        "available_sizes": [
+            "1 l",
+            "2,5 l",
+            "5 l",
+            "12,5 l"
+        ],
+        "color_options": "Tönbar über Conti ProfiColor®",
+        "coating_finish": "Stumpfmatt",
+        "storage_conditions": "Kühl und trocken lagern",
+        "shelf_life": "ca. 1 Jahr",
+        "environmental_impact": "EU-VOC-Grenzwert (Kat. A/c): 40 g/l VOC (2010), max. 40 g/l",
+        "disposal_information": "Eingetrocknete Reste im Baustellenabfall oder Hausmüll entsorgen; flüssige Reste gemäß Vorschriften entsorgen.",
+        "safety_warnings": "Schädlich für Wasserorganismen; enthält Biozide, kann allergische Reaktionen hervorrufen.",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Streichen, rollen oder spritzen",
+        "substrate_requirements": "Rissfreie, feste, trockene und saubere Untergründe",
+        "standards_met": "VOB, Teil C, DIN 18363",
+        "certifications": [],
+        "manufacturer_contact": "Conti Coatings GmbH & Co. KG, Feldstraße 55, 46149 Oberhausen, Tel.: +49 208 9948 0, Mail: info@conticoatings.com",
+        "documentation_url": "http://files.conticoatings.com/TM_Murolux.pdf",
+        "product_image": [
+            "TM_Murolux/TM_Murolux.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TM_FAZusatz.pdf",
+        "brand": "Conti",
+        "product_name": "FA ZUSATZ",
+        "product_code": "F+L BSW50",
+        "revision_number": "Not Available",
+        "document_date": "2024-05-16",
+        "properties": [
+            "Spezialkonzentrat zur Filmausrüstung von pastösen Außenputzen",
+            "Schutz gegen Algen, Schimmel und Pilzbefall",
+            "Depot-Wirkung für langanhaltenden Filmschutz",
+            "Enthält Terbutryn (4,0 g/kg) und 2-Octyl-2H-Isothiazol-3-on (5,0 g/kg)"
+        ],
+        "application_area": "Fassadenputze und Fassadenfarben",
+        "material_composition": "Composition Not Specified",
+        "physical_properties": {
+            "color": "weiß - milchig",
+            "specific_weight": "ca. 1,240 g/cm³",
+            "mix_ratio": "250 ml für 25 kg Putz oder 12,5 l Fassadenfarbe"
+        },
+        "available_sizes": [
+            "250 ml"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "kühl, frostfrei und trocken",
+        "shelf_life": "ca. 1 Jahr",
+        "environmental_impact": "VOC-Anteil max. 40 g/l",
+        "disposal_information": "Eingetrocknete Reste als Baustellenabfall oder im Hausmüll entsorgen; Flüssige Reste nach Abfallbeseitigungsvorschriften entsorgen.",
+        "safety_warnings": "H317 Kann allergische Hautreaktionen verursachen; Giftig für Wasserorganismen.",
+        "mixing_instructions": "250 ml Conti® FA-Zusatz für 25 kg pastösen Außenputz bzw. 12,5 l Fassadenfarbe.",
+        "application_method": "General Application Methods",
+        "substrate_requirements": "Standard Substrate Conditions",
+        "standards_met": "No Standards Specified",
+        "certifications": [
+            "BauA-Reg. Nr. N-113137"
+        ],
+        "manufacturer_contact": "Tel.: +49 208 9948 0, Mail: info@conticoatings.com",
+        "documentation_url": "https://files.conticoatings.com/TM_FAZusatz.pdf",
+        "product_image": [
+            "TM_FAZusatz/TM_FAZusatz.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "TM_MineraDeck.pdf",
+        "brand": "Conti",
+        "product_name": "Conti ProfiColor® MINERADECK",
+        "product_code": "F+L BSW10",
+        "revision_number": "Not Available",
+        "document_date": "2022-02-14",
+        "properties": [
+            "tuchmatt auftrocknend",
+            "leicht zu verarbeiten",
+            "reinweiß",
+            "lichtecht",
+            "lösemittel-, amin- und ammoniakfrei",
+            "wasserabweisend",
+            "hohe CO2-Durchlässigkeit",
+            "geruchsarm",
+            "umweltverträglich",
+            "allergieneutral",
+            "enthält keine Konservierungsmittel"
+        ],
+        "application_area": "Für mineralische Untergründe wie Putze, Naturstein, Kalksandstein, zur Renovierung alter, tragfähiger Silikat- und Mineralfarbenbeschichtungen.",
+        "material_composition": "Wasser, Kaliumsilikat, Polymerdispersion, Calciumcarbonat, Titandioxid, Talk, Additive",
+        "physical_properties": {
+            "Diffusionsdichte": "Klasse V1",
+            "Durchlässigkeitsrate für Wasser": "Klasse W3",
+            "Glanzgrad": "silikatmatt",
+            "Spez. Gewicht": "ca. 1,450 g/cm³"
+        },
+        "available_sizes": [
+            "2,5 l",
+            "5 l",
+            "12,5 l"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "silikatmatt",
+        "storage_conditions": "kühl und trocken",
+        "shelf_life": "ca. 1 Jahr",
+        "environmental_impact": "EU-VOC-Grenzwert (Kat. A/c): 40 g/l VOC (2010); Der VOC-Anteil beträgt max. 40 g/l.",
+        "disposal_information": "Eingetrocknete Reste könne als Baustellenabfall entsorgt werden oder flüssige Reste nach behördlichen Vorschriften.",
+        "safety_warnings": "Achtung: Ätzend! Verursacht Hautreizungen. Darf nicht in die Hände von Kindern gelangen.",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Streichen, rollen oder spritzen. Zweimal unverdünnt auftragen.",
+        "substrate_requirements": "Die Untergründe müssen rissfrei, fest, trocken, frei von Verschmutzungen, Salzen, Ausblühungen sein.",
+        "standards_met": "VOB, DIN 18363, Abs. 2.4.1.",
+        "certifications": [],
+        "manufacturer_contact": "Tel.: +49 208 9948 0, Mail: info@conticoatings.com",
+        "documentation_url": "https://files.conticoatings.com/TM_MineraDeck.pdf",
+        "product_image": [
+            "TM_MineraDeck/TM_MineraDeck.pdf-3-0.png",
+            "TM_MineraDeck/TM_MineraDeck.pdf-0-0.png"
+        ]
+    },
+    {
+        "file_name": "UZIN_PE_460.pdf",
+        "brand": "Uzin",
+        "product_name": "UZIN PE 460",
+        "product_code": "1738745929",
+        "revision_number": "02.2025",
+        "document_date": "2025-02-01",
+        "properties": [
+            "Geruchsarm",
+            "Haftgrundierung im Bodenbereich",
+            "Starkes Abdichtvermögen gegen Feuchtigkeit",
+            "Wasser- und frostbeständig",
+            "Chemikalienbeständig",
+            "Hohe Sperrwirkung gegen Feuchtigkeit",
+            "Sehr gute Benetzung des Untergrundes"
+        ],
+        "application_area": "Innen- und Außenbereich, Baustellen",
+        "material_composition": "Polyamingehärtetes Epoxidharz",
+        "physical_properties": {
+            "Farbe": {
+                "Komp. A": "blau",
+                "Komp. B": "gelb",
+                "Gemischt": "grün"
+            },
+            "Verbrauch": "200 – 600 g/m² pro Schicht",
+            "Verarbeitungszeit": "25 - 30 Minuten",
+            "Topfzeit": "25 - 30 Minuten",
+            "Min. Verarbeitungstemperatur": "10 °C am Boden und + 3 °C über dem Taupunkt"
+        },
+        "available_sizes": [
+            "0,75 kg",
+            "5 kg",
+            "10 kg"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Standard Lagerbedingungen",
+        "shelf_life": "mind. 12 Monate",
+        "environmental_impact": "GISCODE RE 90 / Lösemittelfrei; EMICODE EC 1 PLUS / Sehr emissionsarm",
+        "disposal_information": "Produktreste sammeln, nicht in die Kanalisation lassen; als Baustellenabfall entsorgen.",
+        "safety_warnings": "Enthält reizende und ätzende Substanzen; Verwenden Sie Schutzkleidung.",
+        "mixing_instructions": "A : B = 100 : 50 Gew.-Teile; Komponenten gut mischen.",
+        "application_method": "Mit UZIN Nylon-Plüsch-Rolle gleichmäßig auftragen.",
+        "substrate_requirements": "Untergrund muss tragfähig, zug- und druckfest, sauber sein.",
+        "standards_met": "DIN 18 365, ÖNORM B 5236, DIN 18 560",
+        "certifications": [],
+        "manufacturer_contact": "UZIN Utz SE, Dieselstraße 3, DE-89079 Ulm, Telefon +49 731 4097-0, E-Mail info@uzin.com, Internet www.uzin.de",
+        "documentation_url": "www.uzin.de",
+        "product_image": [
+            "UZIN_PE_460/UZIN_PE_460.pdf-0-1.png",
+            "UZIN_PE_460/UZIN_PE_460.pdf-2-0.png",
+            "UZIN_PE_460/UZIN_PE_460.pdf-0-0.png",
+            "UZIN_PE_460/UZIN_PE_460.pdf-1-0.png"
+        ]
+    },
+    {
+        "file_name": "UZIN_PE_360_PLUS.pdf",
+        "brand": "Uzin",
+        "product_name": "UZIN PE 360 PLUS",
+        "product_code": "1723724498",
+        "revision_number": "Not Available",
+        "document_date": "2024-08-01",
+        "properties": [
+            "Feuchtebeständige Dispersionsgrundierung für saugfähige Untergründe, Estriche und Betonböden",
+            "schnelle Trocknung",
+            "reduziert die Saugfähigkeit des Untergrundes",
+            "gebrauchsfertig",
+            "sprühfähig",
+            "beständig gegen alkalische Feuchtigkeit"
+        ],
+        "application_area": "Bodenbereich vor Spachtelarbeiten auf saugfähigen Untergründen",
+        "material_composition": "Polymerdispersionen, Konservierungsmittel, Additive und Wasser.",
+        "physical_properties": {
+            "Farbe nass": "blau",
+            "Farbe trocken": "blau transparent",
+            "Trocknungszeit": "30 - 60 Minuten*",
+            "Mindestverarbeitungstemperatur": "10 °C am Boden"
+        },
+        "available_sizes": [
+            "5 kg",
+            "10 kg"
+        ],
+        "color_options": "blau",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Lagerfähig mind. 12 Monate",
+        "shelf_life": "12 Monate",
+        "environmental_impact": "GISCODE D1 – lösemittelfrei, EMICODE EC 1 PLUS / Sehr emissionsarm, DE-UZ 113 / Umweltfreundlich, weil emissionsarm",
+        "disposal_information": "Produktreste möglichst sammeln und weiter verwenden. Nicht in die Kanalisation, Gewässer oder ins Erdreich gelangen lassen.",
+        "safety_warnings": "Die Verwendung einer Hautschutzcreme wird grundsätzlich empfohlen. Während und nach der Verarbeitung für gründliche Belüftung sorgen!",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Mit der UZIN Nylon-Plüsch-Rolle gleichmäßig satt und vollfächig auftragen.",
+        "substrate_requirements": "Der Untergrund muss fest, tragfähig, trocken, rissefrei, sauber und frei von Stoffen sein, die die Haftung beeinträchtigen.",
+        "standards_met": [
+            "DIN 18 365",
+            "ÖNORM B 5236",
+            "DIN 18 356"
+        ],
+        "certifications": [],
+        "manufacturer_contact": "UZIN Utz SE | Dieselstraße 3 | DE-89079 Ulm | Telefon +49 731 4097-0 | Telefax +49 731 4097-110 | E-Mail info@uzin.com | Internet www.uzin.de",
+        "documentation_url": "www.uzin.de",
+        "product_image": [
+            "UZIN_PE_360_PLUS/UZIN_PE_360_PLUS.pdf-0-0.png",
+            "UZIN_PE_360_PLUS/UZIN_PE_360_PLUS.pdf-0-1.png"
+        ]
+    },
+    {
+        "file_name": "UZIN_PE_280.pdf",
+        "brand": "Uzin",
+        "product_name": "UZIN PE 280",
+        "product_code": "1723724503",
+        "revision_number": "08.2024",
+        "document_date": "Date Not Provided",
+        "properties": "Dispersionsgrundierung mit Carbontechnologie für glatte und dichte Untergründe",
+        "application_area": "Innenbereich",
+        "material_composition": "Polymerdispersionen, Konservierungsmittel, Additive und Wasser.",
+        "physical_properties": {
+            "Gebindeart": "KU-Eimer (rechteckig) /Dose",
+            "Farbe nass": "ocker",
+            "Farbe trocken": "ocker",
+            "Trocknungszeit": "45 Minuten*",
+            "Mindestverarbeitungstemperatur": "10 °C am Boden",
+            "Verbrauch": "70 – 150 g/m²"
+        },
+        "available_sizes": [
+            "1 kg",
+            "5 kg",
+            "12 kg"
+        ],
+        "color_options": "ocker",
+        "coating_finish": "filmbildend",
+        "storage_conditions": "Originalgebinde bei mäßig kühler Lagerung mindestens 12 Monate lagerfähig.",
+        "shelf_life": "mind. 12 Monate",
+        "environmental_impact": "GISCODE D 1 – Lösemittelfrei, EMICODE EC 1 PLUS / Sehr emissionsarm",
+        "disposal_information": "Produktreste möglichst sammeln und weiter verwenden. Nicht in die Kanalisation, in Gewässer oder ins Erdreich gelangen lassen.",
+        "safety_warnings": "Bei der Verarbeitung ist die Verwendung einer Hautschutzcreme sowie die Belüftung der Arbeitsräume grundsätzlich zu empfehlen.",
+        "mixing_instructions": "Vor Verarbeitung auf Raumtemperatur kommen lassen und gründlich aufrühren.",
+        "application_method": "Mit der UZIN Nylon-Plüsch-Rolle gleichmäßig dünn und vollfächig auf den Untergrund auftragen.",
+        "substrate_requirements": "Der Untergrund muss fest, tragfähig, trocken, rissefrei, sauber und frei von Stoffen sein, die die Haftung beeinträchtigen.",
+        "standards_met": "DIN 18 365, ÖNORM B 5236, DIN 18 356",
+        "certifications": [],
+        "manufacturer_contact": "UZIN Utz SE | Dieselstraße 3 | DE-89079 Ulm | Telefon +49 731 4097-0 | E-Mail info@uzin.com | Internet www.uzin.de",
+        "documentation_url": "www.uzin.de",
+        "product_image": [
+            "UZIN_PE_280/UZIN_PE_280.pdf-0-0.png",
+            "UZIN_PE_280/UZIN_PE_280.pdf-0-1.png"
+        ]
+    },
+    {
+        "file_name": "UZIN_PE_355.pdf",
+        "brand": "Uzin",
+        "product_name": "UZIN PE 355",
+        "product_code": "1723725047",
+        "revision_number": "Not Available",
+        "document_date": "2024-08-01",
+        "properties": [
+            "Haftgrundierung im Bodenbereich vor Spachtelarbeiten",
+            "gebrauchsfertig",
+            "schnelle Trocknung",
+            "reduziert die Saugfähigkeit des Untergrundes",
+            "sprühfähig",
+            "sehr ergiebig"
+        ],
+        "application_area": "Bodenbelagsarbeiten, Spachtelarbeiten auf saugfähigen, mineralischen Untergründen",
+        "material_composition": "Polymerdispersionen, Konservierungsmittel, Additive und Wasser",
+        "physical_properties": {
+            "Gebindeart": "KU-Kanister",
+            "Gebindegröße": "10 kg",
+            "Farbe nass": "blau",
+            "Farbe trocken": "blau transparent",
+            "Verbrauch": "80 - 150 g/m²",
+            "Trocknungszeit": "30 - 60 Minuten*",
+            "Mindestverarbeitungstemperatur": "10 °C am Boden"
+        },
+        "available_sizes": [
+            "10 kg"
+        ],
+        "color_options": "blau, blau transparent",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Standard Storage Conditions",
+        "shelf_life": "mind. 12 Monate",
+        "environmental_impact": "GISCODE D 1 / Lösemittelfrei, EMICODE EC 1 PLUS / Sehr emissionsarm, DE-UZ 113 / Umweltfreundlich",
+        "disposal_information": "Produktreste möglichst sammeln und weiter verwenden. Nicht in die Kanalisation, in Gewässer oder ins Erdreich gelangen lassen.",
+        "safety_warnings": "Berührung mit den Augen oder der Haut sofort gründlich mit Wasser abspülen.",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Mit der UZIN Nylon-Plüsch-Rolle gleichmäßig satt und vollfächig auftragen.",
+        "substrate_requirements": "Der Untergrund muss fest, tragfähig, trocken, rissefrei, sauber und frei von Stoffen sein, die die Haftung beeinträchtigen.",
+        "standards_met": "DIN 18 365, DIN 18 356, weitere Normen und Merkblätter zu beachten.",
+        "certifications": [],
+        "manufacturer_contact": "UZIN Utz SE | Dieselstraße 3 | DE-89079 Ulm | Telefon +49 731 4097-0 | E-Mail info@uzin.com | Internet www.uzin.de",
+        "documentation_url": "www.uzin.de",
+        "product_image": [
+            "UZIN_PE_355/UZIN_PE_355.pdf-0-0.png",
+            "UZIN_PE_355/UZIN_PE_355.pdf-0-1.png"
+        ]
+    },
+    {
+        "file_name": "UZIN_EasyLift_Primer.pdf",
+        "brand": "Uzin",
+        "product_name": "UZIN EasyLift Primer",
+        "product_code": "1732810218",
+        "revision_number": "Not Available",
+        "document_date": "2024-11-01",
+        "properties": [
+            "Innenbereich",
+            "Schnell trocknend",
+            "Gebrauchsfertig",
+            "Vereinfacht rückstandsfreie Entfernung von Belägen",
+            "Beläge bis zu 3 x nahezu rückstandsfrei entfernbar",
+            "Für starkenBeanspruchung im Wohn-, Gewerbe- und Industriebereich"
+        ],
+        "application_area": "Wiederaufnahme-Vorstrich vor Belagsverlegungen mit UZIN KE 66",
+        "material_composition": "Polymerdispersionen, Konservierungsmittel, Additive und Wasser",
+        "physical_properties": {
+            "Farbe nass": "weiß",
+            "Farbe trocken": "transparent",
+            "Verbrauch": "100 - 150 g/m²",
+            "Trocknungszeit": "ca. 1 Stunde*",
+            "Mindestverarbeitungstemperatur": "15 °C am Boden"
+        },
+        "available_sizes": [
+            "5 kg"
+        ],
+        "color_options": "Standard Color",
+        "coating_finish": "No Special Coating",
+        "storage_conditions": "Standard Lagerfähigkeit mindestens 12 Monate",
+        "shelf_life": "12 Monate",
+        "environmental_impact": "GISCODE D 1 – Lösemittelfrei, EMICODE EC 1 PLUS – Sehr emissionsarm",
+        "disposal_information": "Produktreste möglichst sammeln und weiter verwenden.",
+        "safety_warnings": "Verwendung einer Hautschutzcreme sowie Belüftung der Arbeitsräume empfohlen.",
+        "mixing_instructions": "Ready-to-Use",
+        "application_method": "Mit der UZIN Nylon-Plüsch-Rolle gleichmäßig auftragen",
+        "substrate_requirements": "Untergrund muss fest, tragfähig, trocken, rissefrei sein.",
+        "standards_met": "DIN, ÖNORM, SIA, usw.",
+        "certifications": [],
+        "manufacturer_contact": "UZIN Utz SE, Dieselstraße 3, DE-89079 Ulm, Telefon +49 731 4097-0",
+        "documentation_url": "www.uzin.de",
+        "product_image": [
+            "UZIN_EasyLift_Primer/UZIN_EasyLift_Primer.pdf-0-0.png"
+        ]
+    }
+]
