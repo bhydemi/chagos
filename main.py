@@ -2,6 +2,7 @@ import os
 import json
 import concurrent.futures
 import argparse
+import logging
 
 from config import (
     ZIP_FILE_PATH,
@@ -19,6 +20,11 @@ from extractor.pdf_image_extractor import save_images_from_pdf
 from extractor.zip_extractor import extract_zip
 from extractor.pdf_getter import get_pdf_files
 
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
 
 def parse_args():
     parser = argparse.ArgumentParser(
@@ -74,7 +80,7 @@ def main():
 
     # Step 2: Process PDFs for text extraction in parallel
     pdf_files = get_pdf_files(args.extraction_folder)
-    print(f"Found {len(pdf_files)} PDF files.")
+    logging.info(f"Found {len(pdf_files)} PDF files.")
 
     all_extracted_data = []
 
@@ -111,11 +117,11 @@ def main():
     try:
         with open(args.output_json, "w", encoding="utf-8") as json_file:
             json.dump(all_extracted_data, json_file, indent=4, ensure_ascii=False)
-        print(f"All extracted data saved in: '{args.output_json}'")
+        logging.info(f"All extracted data saved in: '{args.output_json}'")
     except Exception as e:
-        print(f"Error saving JSON file: {e}")
+        logging.error(f"Error saving JSON file: {e}")
 
-    print("Processing complete.")
+    logging.info("Processing complete.")
 
 
 if __name__ == "__main__":
